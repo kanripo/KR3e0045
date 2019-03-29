@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 仁齋直指
-#+DATE: 2019-03-29 21:05:18.012049
+#+DATE: 2019-03-29 21:05:18.412504
 #+PROPERTY: ID KR3e0045
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 11
 <pb:KR3e0045_WYG_011-1a>¶
 　　欽定四庫全書¶
@@ -182,7 +182,7 @@
 ¶
 　　栢子仁　　　琥珀　　　　當歸¶
 ¶
-　　酸&KR0037;仁(温酒浸半日去殻隔紙炒香)　　　逺志(酒浸半日新布褁搥取肉¶
+　　酸棗仁(温酒浸半日去殻隔紙炒香)　　　逺志(酒浸半日新布褁搥取肉¶
 ¶
 　　焙各半兩)　　　　乳香　　　　朱砂(别研)¶
 ¶
